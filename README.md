@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Zuriiiiix
+- 👀 I’m interested in FiveM Configuration
+- 🌱 I’m currently learning the LUA
